@@ -1,0 +1,3 @@
+This is new file created in local Repo
+
+Version control 1
